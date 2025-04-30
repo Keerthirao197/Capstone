@@ -1,0 +1,10 @@
+sample sample sample
+
+sample sample sample
+
+<<<<<<< HEAD
+sample sample sample
+
+=======
+>>>>>>> e3955724569555338923b151a8c2d2fc10644165
+sample sample sample
